@@ -5,7 +5,7 @@
 AHP-TOPSIS-2N method
 }
 \description{
-AHP-TOPSIS-2N is an hybrid multi-criteria decision-making method build from the AHP (Analytic Hierarchy Process) and TOPSIS-2N (Technique for Order of Preference by Similarity to Ideal Solution - with two normalizations).
+AHP-TOPSIS-2N is a hybrid multi-criteria decision-making method build from the AHP (Analytic Hierarchy Process) and TOPSIS-2N (Technique for Order of Preference by Similarity to Ideal Solution - with two normalizations).
 }
 \usage{
 ahptopsis2n(decision, criteria, minmax)
@@ -30,7 +30,7 @@ a list with consistency ratio and two dataframes with priority sorting of the al
 }
 \references{
 
-De Souza, L. P., Gomes, C. F. S. and De Barros, A. P. (2018). Implementation of New Hybrid AHP–TOPSIS-2N Method in Sorting and Prioritizing of an it CAPEX Project Portfolio. International Journal of Information Technology & Decision Making. DOI: 10.1142/S0219622018500207.
+Souza, L. P. de, Gomes, C. F. S. and De Barros, A. P. (2018). Implementation of New Hybrid AHP–TOPSIS-2N Method in Sorting and Prioritizing of an it CAPEX Project Portfolio. International Journal of Information Technology & Decision Making. DOI: 10.1142/S0219622018500207.
 
 }
 
